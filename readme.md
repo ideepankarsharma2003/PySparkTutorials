@@ -1,6 +1,6 @@
 # **PySpark Tutorials Repository**
 
-Welcome to the PySpark Tutorials Repository! This repository is designed to provide you with a hands-on introduction to PySpark, a powerful open-source data processing framework for big data and machine learning. We've organized our tutorials and data for a seamless learning experience.
+Welcome to the PySpark Tutorials Repository! This repository is designed to provide you with a hands-on introduction to PySpark, a powerful open-source data processing framework for big data and machine learning. I've organized notebooks and data to give you a nice learning experience.
 
 ## Directory Structure
 
